@@ -1,0 +1,10 @@
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\bin\Debug\custom-attribute-odevi-alperen-saricayir.exe.config
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\bin\Debug\custom-attribute-odevi-alperen-saricayir.exe
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\bin\Debug\custom-attribute-odevi-alperen-saricayir.pdb
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom-attribute-odevi-alperen-saricayir.csproj.AssemblyReference.cache
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom_attribute_odevi_alperen_saricayir.Form1.resources
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom_attribute_odevi_alperen_saricayir.Properties.Resources.resources
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom-attribute-odevi-alperen-saricayir.csproj.GenerateResource.cache
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom-attribute-odevi-alperen-saricayir.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom-attribute-odevi-alperen-saricayir.exe
+C:\Users\memos\OneDrive\Masaüstü\custom-attribute-odevi-alperen-saricayir\custom-attribute-odevi-alperen-saricayir\obj\Debug\custom-attribute-odevi-alperen-saricayir.pdb
